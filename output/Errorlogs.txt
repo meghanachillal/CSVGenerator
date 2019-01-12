@@ -1,0 +1,6 @@
+Sep 06, 2018 9:48:39 PM JavaFileToCSV main
+INFO: Total execution time: 649 ms
+Sep 06, 2018 9:48:39 PM JavaFileToCSV main
+INFO: Total number of valid rows: 7942
+Sep 06, 2018 9:48:39 PM JavaFileToCSV main
+INFO: Total number of invalid rows: 3353
